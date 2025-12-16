@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name's Guilherme (I go by Ulvv in the internet) and I like coding a variety of things
-Well, you can see that for yourself in this page.
+My name's Guilherme (I go by Ulvv in the internet) and I like coding a variety of things. Well, you can see that for yourself in this page.
