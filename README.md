@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name's Guilherme (I go by Ulvv in the internet) and I like coding a variety of things. Well, you can see that for yourself in this page.
+
+
+##Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulvvi)](https://github.com/anuraghazra/github-readme-stats)
