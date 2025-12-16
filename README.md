@@ -1,4 +1,4 @@
-## Hi there 👋
+## Heyo!!
 
 <!--
 **ulvvi/ulvvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name's Guilherme (I go by Ulvv in the internet) and I like coding a variety of things
+Well, you can see that for yourself in this page.
