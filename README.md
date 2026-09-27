@@ -1,21 +1,40 @@
-## Heyo!!
+# Hi, I'm Guilherme (Aka Ulvv)
 
-<!--
-**ulvvi/ulvvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at **UFRJ** exploring how computers actually work under the hood—from bare-metal and OS design to compilers and memory models. I like to avoid too many abstractions. I'm fluent in English and looking to learn another language in the future (not sure which one yet).
 
-Here are some ideas to get you started:
+While my heart belongs to low-level systems, I enjoy exploring whatever is needed to build something cool.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-My name's Guilherme (I go by Ulvv in the internet) and I like coding a variety of things. Well, you can see that for yourself in this page. Im still learning so bear with me.
+---
 
+### What I'm up to:
+- Studying Computer Science at **UFRJ** (Universidade Federal do Rio de Janeiro).
+- Diving deep into **Operating Systems**, memory management, and systems programming.
+- Writing mostly **C** and **C++**, learning assembly, and tinkering with Linux (also some web stuff here and there).
 
-## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulvvi)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### My favourites:
+
+**Languages:**  
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Systems & Tools:**  
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-000000?style=for-the-badge&logo=cmake&logoColor=white)
+
+---
+
+### Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ulvvi&show_icons=true&bg_color=000000&title_color=ffffff&text_color=999999&icon_color=ffffff&border_color=333333&count_private=true" alt="My Stats" width="48%" />
+</div>
+
+---
+
+### How to reach out to me:
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.ulvv@gmail.com)
