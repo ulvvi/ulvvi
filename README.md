@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="smt1.png" alt="Banner" width="500" />
+<div align="left">
+  <img src="smt1.png" alt="Banner" width="500" height="400" />
 </div>
 
 # Hi, I'm Guilherme (Aka Ulvv)
