@@ -1,3 +1,5 @@
+![alt](smt1.png)
+
 # Hi, I'm Guilherme (Aka Ulvv)
 
 I'm a Computer Science student at **UFRJ** exploring how computers actually work under the hood—from bare-metal and OS design to compilers and memory models. I like to avoid too many abstractions. I'm fluent in English and looking to learn another language in the future (not sure which one yet).
