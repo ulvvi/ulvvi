@@ -1,4 +1,6 @@
-![alt](smt1.png)
+<div align="center">
+  <img src="smt1.png" alt="Banner" width="500" />
+</div>
 
 # Hi, I'm Guilherme (Aka Ulvv)
 
