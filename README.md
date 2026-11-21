@@ -32,13 +32,5 @@ While my heart belongs to low-level systems, I enjoy exploring whatever is neede
 
 ---
 
-### Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ulvvi&show_icons=true&bg_color=000000&title_color=ffffff&text_color=999999&icon_color=ffffff&border_color=333333&count_private=true" alt="My Stats" width="48%" />
-</div>
-
----
-
 ### How to reach out to me:
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.ulvv@gmail.com)
